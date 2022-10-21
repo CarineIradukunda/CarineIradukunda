@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarineIradukunda
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Java open source 
+- 💞️ I’m looking to collaborate on Java & Angular open source 
 - 📫 You can reach me via LinkedIn --Carine Sebarinda Iradukunda
 
 <!---
