@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarineIradukunda
-- 👀 I’m interested in Software Development
+- 👀 I’m a Software Developer
 - 🌱 I’m currently expanding my knowledge of backend development with Java and .Net
 - 💞️ I’m looking to collaborate on Java & .Net open source 
 - 📫 You can reach me via LinkedIn --Carine Sebarinda Iradukunda
